@@ -57,7 +57,7 @@ Proyek ini adalah implementasi dari tutorial untuk membuat aplikasi CRUD sederha
 Setelah server berjalan, buka browser dan akses `http://localhost:3000`. Anda dapat mulai menambahkan, melihat, mengedit, dan menghapus item dari database.
 
 ## Struktur Proyek
-
+```
 ├── public
 │   ├── css
 │   │   └── styles.css
@@ -71,7 +71,7 @@ Setelah server berjalan, buka browser dan akses `http://localhost:3000`. Anda da
 ├── app.js
 ├── package.json
 └── README.md
-
+```
 ## Referensi
 
 - [Video Tutorial](https://www.youtube.com/watch?v=YdBy9-0pER4&t=137s) oleh Traversy Media
