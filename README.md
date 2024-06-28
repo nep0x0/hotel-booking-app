@@ -74,7 +74,7 @@ Setelah server berjalan, buka browser dan akses `http://localhost:3000`. Anda da
 ```
 ## Referensi
 
-- [Video Tutorial](https://www.youtube.com/watch?v=YdBy9-0pER4&t=137s) oleh Traversy Media
+- [Video Tutorial](https://www.youtube.com/watch?v=YdBy9-0pER4&t=137s) oleh Chris Blakely
 
 ## Lisensi
 
