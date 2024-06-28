@@ -58,7 +58,6 @@ Setelah server berjalan, buka browser dan akses `http://localhost:3000`. Anda da
 
 ## Struktur Proyek
 
-```
 ├── public
 │   ├── css
 │   │   └── styles.css
