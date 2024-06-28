@@ -1,6 +1,5 @@
 # hotel-booking-app
 
-```markdown
 # Tutorial: Membuat Website CRUD dengan Express.js & MongoDB
 
 Ini adalah proyek hasil mengikuti tutorial dari video YouTube "[CRUD Website with Express.js & MongoDB - Crash Course](https://www.youtube.com/watch?v=YdBy9-0pER4&t=137s)" oleh Traversy Media.
@@ -73,7 +72,6 @@ Setelah server berjalan, buka browser dan akses `http://localhost:3000`. Anda da
 ├── app.js
 ├── package.json
 └── README.md
-```
 
 ## Referensi
 
@@ -82,4 +80,3 @@ Setelah server berjalan, buka browser dan akses `http://localhost:3000`. Anda da
 ## Lisensi
 
 Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-```
